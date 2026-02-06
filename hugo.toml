@@ -1,4 +1,4 @@
-baseURL = 'https://your-blog-name.pages.dev/'
+baseURL = 'https://my-thought-garden.pages.dev/'
 languageCode = 'en-us'
 title = 'My Thought Garden'
 theme = 'hugo-bearblog'
