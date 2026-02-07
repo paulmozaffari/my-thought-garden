@@ -185,17 +185,18 @@
   },
   "active": "3a87c4a416a6d118",
   "lastOpenFiles": [
+    "public/blog/hello-world/index.html",
+    "public/blog/manifesto/index.xml",
+    "public/blog/manifesto/index.html",
+    "public/blog/execution/index.xml",
+    "public/blog/ai-security/index.xml",
+    "public/blog/execution/index.html",
+    "public/blog/ai-security/index.html",
+    "public/blog/hello-world",
+    "public/blog/manifesto",
+    "public/blog/index.xml",
+    "public/blog/index.html",
     "content/blog/hello-world.md",
-    "content/blog/_index.md",
-    "public/tags/ai-security/index.xml",
-    "public/tags/ai-security/index.html",
-    "public/tags/ai-security",
-    "public/tags/execution/index.xml",
-    "public/tags/execution/index.html",
-    "public/tags/execution",
-    "public/posts/activation-of-a-thought-garden/index.html",
-    "public/posts/activation-of-a-thought-garden",
-    "public/tags/manifesto/index.xml",
-    "public/tags/manifesto/index.html"
+    "content/blog/_index.md"
   ]
 }

@@ -1,33 +1,33 @@
-baseURL = 'https://my-thought-garden.pages.dev/'
-languageCode = 'en-us'
-title = 'My Thought Garden'
-theme = 'hugo-bearblog'
-author = 'Paul'
-copyright = 'Copyright © 2026, Paul.'
+baseURL = "https://my-thought-garden.pages.dev/"
+languageCode = "en-us"
+title = "My Thought Garden"
+theme = "hugo-bearblog"
+author = "Paul"
+copyright = "Copyright (c) 2026, Paul."
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
 # Generate 'Bearblog'-like URLs
 [permalinks]
-  posts = '/:slug/'
-  tags = '/blog/:slug'
+  posts = "/:slug/"
+  tags = "/blog/:slug/"
 
 [params]
-  description = 'A minimalist thought garden.'
+  description = "A minimalist thought garden."
   # Bear Blog theme specific
   hideMadeWithLine = true
   
   # Favicon (Place a favicon.png in static/images/)
-  favicon = 'images/favicon.png'
+  favicon = "images/favicon.png"
   
   # Date format (ISO 8601 style)
-  dateFormat = '2006-01-02'
+  dateFormat = "2006-01-02"
 
 # Configure markup highlighter to match 'Bearblog' aesthetics
 [markup]
   [markup.highlight]
-    style = 'friendly'
+    style = "friendly"
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
